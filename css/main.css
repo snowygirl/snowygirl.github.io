@@ -1055,7 +1055,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4eff73;
+  background: #69fbdf;
 }
 .sidebar-nav {
   margin: 0;
@@ -1158,7 +1158,7 @@ body {
   margin-right: 10px;
 }
 .powered-by::after {
-  content: "|";
+  content: "";
   padding-left: 10px;
 }
 .cc-license {
